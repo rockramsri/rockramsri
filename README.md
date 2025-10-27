@@ -1,7 +1,14 @@
-## Hi Visitors or Nerds
+<h1 align="center">Hi, I'm Sriram 👋</h1> 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<br><br>
+<p align="center">
+  <b>AI/ML · Security · Python · Cloud · Distributed Systems · AR/Unity</b><br>
+  <i>Building smart systems. Obsessed with automation & real-world impact.<br>
+  Hackathon winner, hands-on engineer, always learning.</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" width="100%" />
+</p>
 
 <!--
 **rockramsri/rockramsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
